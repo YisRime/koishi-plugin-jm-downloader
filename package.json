@@ -2,13 +2,21 @@
   "name": "koishi-plugin-jm-downloader",
   "description": "开发中",
   "version": "0.0.1",
+  "contributors": [
+    "Yis_Rime <yis_rime@outlook.com>"
+  ],
+  "homepage": "https://github.com/YisRime/koishi-plugin-jm-downloader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YisRime/koishi-plugin-jm-downloader.git"
+  },
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "lib",
     "dist"
   ],
-  "license": "MIT",
+  "license": "GPL-3.0",
   "scripts": {},
   "keywords": [
     "chatbot",
